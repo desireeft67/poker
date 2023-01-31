@@ -48,6 +48,8 @@ public class Baraja {
 		cartas[29] = new Carta ("ASC", true);
 		cartas[30] = new Carta ("ASC", true);
 		cartas[31] = new Carta ("ASC", true);
+		
+		
 		cartas[32] = new Carta ("ASC", true);
 		cartas[33] = new Carta ("ASC", true);
 		cartas[34] = new Carta ("ASC", true);
